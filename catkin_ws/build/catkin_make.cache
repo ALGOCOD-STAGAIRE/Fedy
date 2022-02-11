@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/fedy/git_workspace/Fedy-/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fedy/git_workspace/Fedy-/catkin_ws/install -G Unix Makefiles
